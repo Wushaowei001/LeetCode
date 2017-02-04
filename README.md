@@ -2,7 +2,7 @@
 
 [LeetCode solutions](http://maskray.me/blog/2014-06-29-leetcode-solutions) gives some thoughts on selected problems.
 
-Solved 436/442 problems.
+Solved 448/470 problems.
 
 ## Database
 
@@ -12,11 +12,23 @@ See [database.md](database.md)
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)|[find-mode-in-binary-search-tree.cc](find-mode-in-binary-search-tree.cc)|
+|495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking)|[teemo-attacking.cc](teemo-attacking.cc)|
+|494|[Target Sum](https://leetcode.com/problems/target-sum)|[target-sum.cc](target-sum.cc)|
+|491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences)|[increasing-subsequences.cc](increasing-subsequences.cc)|
+|490|[The Maze](https://leetcode.com/problems/the-maze)|[the-maze.cc](the-maze.cc)|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[max-consecutive-ones.cc](max-consecutive-ones.cc)|
+|483|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base)|[smallest-good-base.cc](smallest-good-base.cc)|
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|[license-key-formatting.cc](license-key-formatting.cc)|
+|481|[Magical String](https://leetcode.com/problems/magical-string)|[magical-string.cc](magical-string.cc)|
+|480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median)|[sliding-window-median.cc](sliding-window-median.cc)|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance)|[total-hamming-distance.cc](total-hamming-distance.cc)|
+|476|[Number Complement](https://leetcode.com/problems/number-complement)|[number-complement.cc](number-complement.cc)|
 |475|[Heaters](https://leetcode.com/problems/heaters)|[heaters.cc](heaters.cc)|
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes)|[ones-and-zeroes.cc](ones-and-zeroes.cc)|
 |473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square)|[matchsticks-to-square.cc](matchsticks-to-square.cc)|
 |472|[Concatenated Words](https://leetcode.com/problems/concatenated-words)|[concatenated-words.cc](concatenated-words.cc)|
+|469|[Convex Polygon](https://leetcode.com/problems/convex-polygon)|[convex-polygon.cc](convex-polygon.cc)|
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address)|[validate-ip-address.cc](validate-ip-address.cc)|
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string)|[unique-substrings-in-wraparound-string.cc](unique-substrings-in-wraparound-string.cc)|
 |466|[Count The Repetitions](https://leetcode.com/problems/count-the-repetitions)|[count-the-repetitions.cc](count-the-repetitions.cc)|
